@@ -1,0 +1,26 @@
+{
+  "name": "sample_npm_publish",
+  "version": "0.10.0",
+  "description": "module sample for testing npm within drupal20180405 personal build",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auxiliaryjoel/sample_npm_publish.git"
+  },
+  "keywords": [
+    "personal",
+    "test",
+    "random",
+    "string",
+    "generator"
+  ],
+  "author": "auxiliaryjoel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auxiliaryjoel/sample_npm_publish/issues"
+  },
+  "homepage": "https://github.com/auxiliaryjoel/sample_npm_publish#readme"
+}
